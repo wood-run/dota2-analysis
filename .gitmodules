@@ -1,0 +1,3 @@
+[submodule "opendota-client"]
+	path = opendota-client
+	url = https://github.com/edifierplus/opendota-client
